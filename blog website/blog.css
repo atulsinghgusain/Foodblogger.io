@@ -1,0 +1,35 @@
+*{
+   margin:0;
+   padding:1px;
+   font-family: Century Gothic;
+
+
+}
+header{
+
+ background-image: url(blog.png);
+ height: 100vh;
+background-position: center;
+background-size: cover;
+}
+ul{
+   float: right;
+   margin-top: 10px;
+   list-style: none;
+
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 5px 20 px;
+	border:1px solid #fff;
+	transition: 0.6s ease;
+}
+title{
+   
+
+
+}
